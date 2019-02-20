@@ -1,0 +1,22 @@
+C:\Users\Kemal\source\repos\MeslekiIngSinav\MeslekiIngSinav\bin\Debug\MeslekiIngSinav.exe.config
+C:\Users\Kemal\source\repos\MeslekiIngSinav\MeslekiIngSinav\bin\Debug\MeslekiIngSinav.exe
+C:\Users\Kemal\source\repos\MeslekiIngSinav\MeslekiIngSinav\bin\Debug\MeslekiIngSinav.pdb
+C:\Users\Kemal\source\repos\MeslekiIngSinav\MeslekiIngSinav\obj\Debug\MeslekiIngSinav.csprojResolveAssemblyReference.cache
+C:\Users\Kemal\source\repos\MeslekiIngSinav\MeslekiIngSinav\obj\Debug\MeslekiIngSinav.Properties.Resources.resources
+C:\Users\Kemal\source\repos\MeslekiIngSinav\MeslekiIngSinav\obj\Debug\MeslekiIngSinav.csproj.GenerateResource.Cache
+C:\Users\Kemal\source\repos\MeslekiIngSinav\MeslekiIngSinav\obj\Debug\MeslekiIngSinav.csproj.CoreCompileInputs.cache
+C:\Users\Kemal\source\repos\MeslekiIngSinav\MeslekiIngSinav\obj\Debug\MeslekiIngSinav.exe
+C:\Users\Kemal\source\repos\MeslekiIngSinav\MeslekiIngSinav\obj\Debug\MeslekiIngSinav.pdb
+C:\Users\Kemal\source\repos\MeslekiIngSinav\MeslekiIngSinav\obj\Debug\MeslekiIngSinav.AnaForm.resources
+C:\Users\Kemal\Desktop\Üniversite 2-2.Donem\İngilizce\MeslekiIngSinav\MeslekiIngSinav\bin\Debug\MeslekiIngSinav.exe.config
+C:\Users\Kemal\Desktop\Üniversite 2-2.Donem\İngilizce\MeslekiIngSinav\MeslekiIngSinav\bin\Debug\MeslekiIngSinav.exe
+C:\Users\Kemal\Desktop\Üniversite 2-2.Donem\İngilizce\MeslekiIngSinav\MeslekiIngSinav\bin\Debug\MeslekiIngSinav.pdb
+C:\Users\Kemal\Desktop\Üniversite 2-2.Donem\İngilizce\MeslekiIngSinav\MeslekiIngSinav\obj\Debug\MeslekiIngSinav.csprojResolveAssemblyReference.cache
+C:\Users\Kemal\Desktop\Üniversite 2-2.Donem\İngilizce\MeslekiIngSinav\MeslekiIngSinav\obj\Debug\MeslekiIngSinav.AnaForm.resources
+C:\Users\Kemal\Desktop\Üniversite 2-2.Donem\İngilizce\MeslekiIngSinav\MeslekiIngSinav\obj\Debug\MeslekiIngSinav.Properties.Resources.resources
+C:\Users\Kemal\Desktop\Üniversite 2-2.Donem\İngilizce\MeslekiIngSinav\MeslekiIngSinav\obj\Debug\MeslekiIngSinav.csproj.GenerateResource.Cache
+C:\Users\Kemal\Desktop\Üniversite 2-2.Donem\İngilizce\MeslekiIngSinav\MeslekiIngSinav\obj\Debug\MeslekiIngSinav.csproj.CoreCompileInputs.cache
+C:\Users\Kemal\Desktop\Üniversite 2-2.Donem\İngilizce\MeslekiIngSinav\MeslekiIngSinav\obj\Debug\MeslekiIngSinav.exe
+C:\Users\Kemal\Desktop\Üniversite 2-2.Donem\İngilizce\MeslekiIngSinav\MeslekiIngSinav\obj\Debug\MeslekiIngSinav.pdb
+C:\Users\Kemal\Desktop\Üniversite 2-2.Donem\İngilizce\MeslekiIngSinav\MeslekiIngSinav\obj\Debug\MeslekiIngSinav.CumleGirisi.resources
+C:\Users\Kemal\Desktop\Üniversite 2-2.Donem\İngilizce\MeslekiIngSinav\MeslekiIngSinav\obj\Debug\MeslekiIngSinav.Sinav.resources
